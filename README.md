@@ -9,6 +9,9 @@
   <a href="https://loazur.itch.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=fa5c5c&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="itch logo"  />
   </a>
+  <a href="https://clementbounaix.dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="itch logo"  />
+  </a>
 </div>
 
 ###
