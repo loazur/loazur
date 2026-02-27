@@ -24,7 +24,7 @@
 ###
 
 <div align="center">
-   <img src="https://komarev.com/ghpvc/?username=loazur&label=Profil+vues&color=black&style=flat-square" alt="Views"/>
+   ![](https://komarev.com/ghpvc/?username=loazur&color=000000&abbreviated=true)
 </div>
 
 ###
