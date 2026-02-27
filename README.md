@@ -23,8 +23,8 @@
 
 ###
 
-<div align="center">
-   ![](https://komarev.com/ghpvc/?username=loazur&color=000000&abbreviated=true)
-</div>
+
+  ![](https://komarev.com/ghpvc/?username=loazur&color=000000&abbreviated=true)
+
 
 ###
