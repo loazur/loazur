@@ -3,14 +3,14 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/clement-bounaix/">
+  <a href="https://www.linkedin.com/in/clement-bounaix/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://loazur.itch.io/">
+  <a href="https://loazur.itch.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=fa5c5c&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="itch logo"  />
   </a>
-  <a href="https://clementbounaix.dev/">
-   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&color=000000&logoColor=white&style=for-the-badge" height="25" />
+  <a href="https://clementbounaix.dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=000000&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
 
@@ -21,7 +21,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=loazur&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=loazur&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
