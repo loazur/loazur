@@ -24,7 +24,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=loazur.loazur&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=loazur.loazur&right_color=black&left_text=Visitors"  />
 </div>
 
 ###
