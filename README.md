@@ -24,7 +24,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=loazur.loazur&right_color=black&left_text=Visitors"  />
+   <img src="https://komarev.com/ghpvc/?username=loazur&label=Profil+vues&color=black&style=flat-square" alt="Views"/>
 </div>
 
 ###
