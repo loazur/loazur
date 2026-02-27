@@ -3,14 +3,14 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/clement-bounaix/" target="_blank">
+  <a href="https://www.linkedin.com/in/clement-bounaix/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://loazur.itch.io/" target="_blank">
+  <a href="https://loazur.itch.io/">
     <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=fa5c5c&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="itch logo"  />
   </a>
-  <a href="https://clementbounaix.dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="itch logo"  />
+  <a href="https://clementbounaix.dev/">
+   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&color=000000&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
 
@@ -27,7 +27,9 @@
 ###
 
 
-  ![](https://komarev.com/ghpvc/?username=loazur&color=000000&abbreviated=true&style=for-the-badge)
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=loazur&color=000000&abbreviated=true&style=for-the-badge" />
+  </div>
 
 
 ###
