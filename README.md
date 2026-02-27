@@ -24,7 +24,7 @@
 ###
 
 
-  ![](https://komarev.com/ghpvc/?username=loazur&color=000000&abbreviated=true)
+  ![](https://komarev.com/ghpvc/?username=loazur&color=000000&abbreviated=true&style=for-the-badge)
 
 
 ###
