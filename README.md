@@ -16,12 +16,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=loazur&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
 
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=loazur&color=000000&abbreviated=true&style=for-the-badge" />
