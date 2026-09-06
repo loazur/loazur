@@ -1,4 +1,4 @@
-<h1 align="center">Hey, Im loazur.</h1>
+<h1 align="center">Hey, I'm loazur.</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="center">Student in 2nd year of Comp. Sci. and future Game Dev.</h4>
+<h4 align="center">Student in 3rd year of Comp. Sci. and future Game Dev.</h4>
 
 ###
 
